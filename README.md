@@ -32,52 +32,45 @@ The dashboard delivers:
 │   ├── fifth dashboard.PNG
 │   └── (Additional task-wise screenshots e.g. 2.1, 2.2, 3.1, etc.)
 
-## ⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies  
 
-Power BI Desktop – for data visualization & dashboarding
+- **Power BI Desktop** – for data visualization & dashboarding  
+- **Power Query** – for ETL (data cleaning & transformation)  
+- **DAX** – for calculated measures and KPIs  
+- **GitHub** – for version control & documentation  
 
-Power Query – for ETL (data cleaning & transformation)
+---
 
-DAX – for calculated measures and KPIs
+## 📊 Key Measures Created  
 
-GitHub – for version control & documentation
+- **Views per Subscriber** = Total Views ÷ Total Subscribers  
+- **Avg Video Duration (Min)** = AVERAGE(duration_sec) ÷ 60  
+- **Views per Minute** = Total Views ÷ Total Minutes  
+- **Views Share %** = Context Views ÷ Total Views  
 
-## 📊 Key Measures Created
+---
 
-Views per Subscriber = Total Views ÷ Total Subscribers
+## 🎯 Project Outcomes  
 
-Avg Video Duration (Min) = AVERAGE(duration_sec) ÷ 60
+- Built **end-to-end interactive dashboards** for YouTube data analysis  
+- Explored **content distribution across Indian languages**  
+- Derived insights on **channel efficiency & content strategy**  
+- Applied **Power BI storytelling standards** (Z-pattern layout, KPI cards, advanced visuals)  
+- Gained hands-on experience in **data modeling, DAX, and Power Query**  
 
-Views per Minute = Total Views ÷ Total Minutes
+---
 
-Views Share % = Context Views ÷ Total Views
+## 🙏 Acknowledgements  
 
-## 🎯 Project Outcomes
+Special thanks to **TopDataWorks mentors** for their guidance:  
+- **Anjali Ma’am** (Product Manager)  
+- **Shailaja Ma’am** (Data Coach)  
+- **Sathish Sir** (Data Coach)  
 
-Built end-to-end interactive dashboards for YouTube data analysis
+---
 
-Explored content distribution across Indian languages
+## 🚀 Author  
 
-Derived insights on channel efficiency & content strategy
-
-Applied Power BI storytelling standards (Z-pattern layout, KPI cards, advanced visuals)
-
-Gained hands-on experience in data modeling, DAX, and Power Query
-
-## 🙏 Acknowledgements
-
-Special thanks to TopDataWorks mentors for their guidance:
-
-Anjali Ma’am (Product Manager)
-
-Shailaja Ma’am (Data Coach)
-
-Sathish Sir (Data Coach)
-
-## 🚀 Author
-
-Divesh Sonawane
-
-🌐 LinkedIn Profile -- https://www.linkedin.com/in/divesh-sonawane-6ba631297
-
-📧 Email -- diveshsonawane66@gmail.com
+**Divesh Sonawane**  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/divesh-sonawane-6ba631297)  
+- 📧 Email: diveshsonawane66@gmail.com  
