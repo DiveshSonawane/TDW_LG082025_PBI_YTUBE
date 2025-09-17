@@ -32,6 +32,8 @@ The dashboard delivers:
 │   ├── fifth dashboard.PNG
 │   └── (Additional task-wise screenshots e.g. 2.1, 2.2, 3.1, etc.)
 
+---
+
 ## ⚙️ Tools & Technologies  
 
 - **Power BI Desktop** – for data visualization & dashboarding  
